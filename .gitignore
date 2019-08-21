@@ -7,6 +7,6 @@ wks.*
 
 tmp-*
 
-lib/
+
 coverage/
 yarn-error.log

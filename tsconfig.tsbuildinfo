@@ -1,0 +1,1060 @@
+{
+  "program": {
+    "fileInfos": {
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0",
+        "signature": "1f753cee573dea40df8a9dc873fef5566957b19ad513874f6643d8dfb14842d0"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96",
+        "signature": "7994d44005046d1413ea31d046577cdda33b8b2470f30281fd9c8b3c99fe2d96"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1",
+        "signature": "5f217838d25704474d9ef93774f04164889169ca31475fe423a9de6758f058d1"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743",
+        "signature": "459097c7bdd88fc5731367e56591e4f465f2c9de81a35427a7bd473165c34743"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52",
+        "signature": "2a0390a665763bcc90f0670e43c587928d8fefe2a94a11209c1e22cba7b09f52"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0",
+        "signature": "dd94d8ef48c562389eb58af8df3a3a34d11367f7c818192aa5f16470d469e3f0"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3",
+        "signature": "828413486bdcaa342558e8e4570b1b287b776cb61b4b70b0214bd10c5d9a94c3"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21",
+        "signature": "6c9f73334f8bf47aea685ca5b46a8f7e992a223e96fbceb030f26a4d2324ba21"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2",
+        "signature": "e6b8ff2798f8ebd7a1c7afd8671f2cb67ee1901c422f5964d74b0b34c6574ea2"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe",
+        "signature": "5e72f949a89717db444e3bd9433468890068bb21a5638d8ab15a1359e05e54fe"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976",
+        "signature": "f5b242136ae9bfb1cc99a5971cccc44e99947ae6b5ef6fd8aa54b5ade553b976"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230",
+        "signature": "9ae2860252d6b5f16e2026d8a2c2069db7b2a3295e98b6031d01337b96437230"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303",
+        "signature": "3e0a459888f32b42138d5a39f706ff2d55d500ab1031e0988b5568b0f67c2303"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0",
+        "signature": "3f96f1e570aedbd97bf818c246727151e873125d0512e4ae904330286c721bc0"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4",
+        "signature": "ff8ad203e83338289b0f5defc1a5b5c253fb7d251b464db497383f915a0df3f4"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f",
+        "signature": "b8667586a618c5cf64523d4e500ae39e781428abfb28f3de441fc66b56144b6f"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c",
+        "signature": "21df2e0059f14dcb4c3a0e125859f6b6ff01332ee24b0065a741d121250bc71c"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6",
+        "signature": "c1759cb171c7619af0d2234f2f8fb2a871ee88e956e2ed91bb61778e41f272c6"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46",
+        "signature": "28569d59e07d4378cb3d54979c4c60f9f06305c9bb6999ffe6cab758957adc46"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/commander/typings/index.d.ts": {
+        "version": "df723c5337a86e061d0f8bacd9e0b8d56fdd9a5d333249d1358fdff10571ef55",
+        "signature": "df723c5337a86e061d0f8bacd9e0b8d56fdd9a5d333249d1358fdff10571ef55"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts": {
+        "version": "826e226ef4293d2e692c796d7cc81c94f353c57fd6016685b79d68134e5df047",
+        "signature": "826e226ef4293d2e692c796d7cc81c94f353c57fd6016685b79d68134e5df047"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts": {
+        "version": "24f73778cc712f3d2ff4b69227957577487118bd41652b63c5f913ba12f7631a",
+        "signature": "24f73778cc712f3d2ff4b69227957577487118bd41652b63c5f913ba12f7631a"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts": {
+        "version": "b645de8e8084e4cb7fb9ba2d8e3fd893dc3b5a6568fb7a5027aec4f779ef814d",
+        "signature": "b645de8e8084e4cb7fb9ba2d8e3fd893dc3b5a6568fb7a5027aec4f779ef814d"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts": {
+        "version": "6e88e36ca6d6953fde31898701899e61239b22f09906d5970caac88107a4b01a",
+        "signature": "6e88e36ca6d6953fde31898701899e61239b22f09906d5970caac88107a4b01a"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts": {
+        "version": "8d0b0656ffc2f973bdea853fc00a3f99122db54fd7a0e13bf87d6f358fbc3c6e",
+        "signature": "8d0b0656ffc2f973bdea853fc00a3f99122db54fd7a0e13bf87d6f358fbc3c6e"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts": {
+        "version": "5ded11c97be84de8fc472b3639230daa947232f25da04803508539880e3939aa",
+        "signature": "5ded11c97be84de8fc472b3639230daa947232f25da04803508539880e3939aa"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts": {
+        "version": "90e654b460f8ff7a3ff73ec54996290afebf00c8acc0fc634961af1509416db5",
+        "signature": "90e654b460f8ff7a3ff73ec54996290afebf00c8acc0fc634961af1509416db5"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts": {
+        "version": "81fdef0cbc4aeed4e29f7ed43d7b768ebe39e068da55c95bd710f47be289d6ac",
+        "signature": "81fdef0cbc4aeed4e29f7ed43d7b768ebe39e068da55c95bd710f47be289d6ac"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts": {
+        "version": "17d66f8a355e76a5a1ee0a82e3428541abdebe80db47f93586a21a2cd79d89bc",
+        "signature": "17d66f8a355e76a5a1ee0a82e3428541abdebe80db47f93586a21a2cd79d89bc"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts": {
+        "version": "e4db201366aed6e8ec28c4f9e998729477b0825ae7e517441e8000f192b8b033",
+        "signature": "e4db201366aed6e8ec28c4f9e998729477b0825ae7e517441e8000f192b8b033"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts": {
+        "version": "20fb7144dd7a3e5007cc44e96c843879216fd082bf5761bd420715d645eb683e",
+        "signature": "20fb7144dd7a3e5007cc44e96c843879216fd082bf5761bd420715d645eb683e"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts": {
+        "version": "026742bab94860543fde035a6bfd5d5103fab08afbdacf9a207a44b2bb6fccba",
+        "signature": "026742bab94860543fde035a6bfd5d5103fab08afbdacf9a207a44b2bb6fccba"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts": {
+        "version": "4b0129cc010964d404b46ab0ecc2017e29e61be7f243a2f4b8633de40c6bf632",
+        "signature": "4b0129cc010964d404b46ab0ecc2017e29e61be7f243a2f4b8633de40c6bf632"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/mustache/index.d.ts": {
+        "version": "940774e1da806a4e8d18ce3b5c8ceead82a6e5e188a45575007ca7c8f84a4d76",
+        "signature": "940774e1da806a4e8d18ce3b5c8ceead82a6e5e188a45575007ca7c8f84a4d76"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts": {
+        "version": "347d3a7ad57576a2aae2258d8cb90faf906762621f660718aff44598fa5a762c",
+        "signature": "e5c39e21a9ff54de105b762275a4c6c773ff344271d08fde407f46df85adedc7"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.ts": {
+        "version": "d6a1be06a914b5bc0d6772fd2dadd1625827babb45a54623a2c3929fee98b772",
+        "signature": "88ad5ba4d65e76d109fdf30e55b72dcf201d45577ace167ceb2d3d69cf95f004"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts": {
+        "version": "7c834ff5972a90b08a082301af1df15babad3fb2a8f2425d4ab3651e5b76f25b",
+        "signature": "b9bb935fdc0cdce243d2f853a2807d0284e4a69a9cca7e1f66e1f4131f5c3141"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/any.ts": {
+        "version": "db0cba1e29958d778c4e17d817ddf7450c3fba95c3b2160338d1a0fe47ab80be",
+        "signature": "c4d2bb4be9f25a3c2a16ba59232b1caed860f049a060f878d834ad125b488b40"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/object.ts": {
+        "version": "994ab75b6c24f640ad6f40b63b7adf4d1b902118b865868da3fd9ab6c09487e2",
+        "signature": "c07c648a5f033d51fa377c275012967baafce3c73cfef801f5c6cb4966accf51"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/reference.ts": {
+        "version": "95ac8a00c1f5177330601d96ec94d620e4b6150d50a69c1a7653114b1de167a7",
+        "signature": "78fdf6810f83fcb8aaadecad7a2bcb3a614e72cc3b6d995c0534986267856e36"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/enum.ts": {
+        "version": "c1ff63afb1c5e650e478dca0a7e883211a7a91333915a566a37600eb61b497d8",
+        "signature": "0526bbeb13595efe7f5fc7249d0b9473a0378610f8a63f7bb672f3a2c8e514a0"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/string.ts": {
+        "version": "4933ffa07f6712759f82466d78f93b4589d535965a9d29bea59d1905dc74d6cd",
+        "signature": "b91103b05dffd55b45116a2964200af0bdad4782531574959583ff14bcf1a317"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/number.ts": {
+        "version": "7d467007b01690b6ed24d3c2cbe2063ecde06708e57d5757e6aa1d644c63a9e4",
+        "signature": "c3c1f1aac030fac3447bcdd25816a2be8d4d5be15661c2f5feba05196d52d25c"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/boolean.ts": {
+        "version": "cef404a780428e6f32b6c3f998fcec3c4e98b761b0c90ac59e00d1ea11b619cc",
+        "signature": "a1fabbc8bfbec1f1dec1c168147a4c0f665fa59c0e7e5c0e9cf9cf3e17849efa"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/array.ts": {
+        "version": "26f643fe66ee34ce560c48df8a545519b8f41ec425a2f74f6f43f1335e7868ea",
+        "signature": "070d526f206c01772ce0a82964d8ece66b171837d167bb98c8a2c5a6f6485784"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/schema.ts": {
+        "version": "f35d2b6405a4f25ec17399a669f93bd7d521d30d4cca364c0f3a24cbc6bc0b3e",
+        "signature": "30e6aff1c4d659e368f2991d7306ad50ab9f38653f1ab481ede654a591408eab"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/void.ts": {
+        "version": "fa4448f183b13201033c1265a06739ea17cd823117faefe1e499977cd8f34b11",
+        "signature": "5734278a09fe488b38780cc02a9cfbd66843cba84f8c3ce5fc80d24898a69302"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/typescript.ts": {
+        "version": "01220601fb65544fda26ecece1258ef0efadf5f0f7d29d0231945ebda4c5e7ed",
+        "signature": "072193880c6f83d345f6b5cf38d6b553a353f1d090e1b4f7cc1e910d380b7943"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/fp.d.ts": {
+        "version": "20c3d0028bd7948b88c14f5957bc8858e2629301a3ac4b257d7c7b445c6fa2ec",
+        "signature": "20c3d0028bd7948b88c14f5957bc8858e2629301a3ac4b257d7c7b445c6fa2ec"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/responsetype.ts": {
+        "version": "69c39e3c6d3821463a6295ea07c62369b51a3386fab4088cab986bc52166741b",
+        "signature": "021adfbc06acd762ce44b4968ca96fb0333f32384368126144661c35438ac78a"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/version.ts": {
+        "version": "0fbedb79f8f03bd61980cf22b74f876a354b7edf3818f3e4f9dca916afe4ffd3",
+        "signature": "32606c2deb856fe7a0923cf0964aa50b3d7b067f016869fdb347aaf686cbb190"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/parameter.ts": {
+        "version": "1451188ab9981d4ec29fc74f1abcdc19810f70b660f31192c5d6c041172be125",
+        "signature": "6ab178ea81167459eda8001e974fcb71486b263adb8b8e3c6a6e47bdde997a6e"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/headers.ts": {
+        "version": "8d711200067569ae1d27f286c1429f4a88ac4c4daf5608c4a7ea277395d5e116",
+        "signature": "6646d9e0738fb4f98ba0e3395f86c17dd8eec1345b21ca16973e44763d1ed6b9"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/method.ts": {
+        "version": "c1621fa022a4f312ccd2cd5811d9ec51505f7463a19fcacbc29873571b4a55bf",
+        "signature": "c6204d979b31288bcfd487e9630d55878d0892b88749199e176777eacc3d8805"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/definition.ts": {
+        "version": "86d209ff0b51c54cbb2a4ac5bfc90666367f799c405cd117689c5f59a78d5127",
+        "signature": "bc9507bca0706d37c878f8cb781e979c18bad89c08c9bc9698e86a161ced3370"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/operation.ts": {
+        "version": "2d700917f4f06efb5a83ad1ba54326bff661cdcf260dc59eb473ed89aaa84664",
+        "signature": "cf66563e2251b21b9a4c05825ae2c039d3a86028f863de5942f048bed6dbfcb3"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/getviewforswagger2.ts": {
+        "version": "aa1961e78489d9d8911287213d992a269a632e74e26a2a7ea3ef2da81b0fde02",
+        "signature": "57bb61732a0e6c7eb672cbdf42b5d1aaac35c5f7a90d3275a5e4ddb0df628943"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/transform/transformtocodewithmustache.ts": {
+        "version": "a54db0351d5007c474129c1cef65ec60ab837dd8ce527c31cf274b0ef86c70ed",
+        "signature": "ca172815c5823d5f7532ad67e052bbf75116de2a920e1b18897d2cc2712a0a49"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/js-beautify/index.d.ts": {
+        "version": "cfd0c5cabfbccb272632c6d0f36515e9508e3125b569842717f6e354506f9a66",
+        "signature": "cfd0c5cabfbccb272632c6d0f36515e9508e3125b569842717f6e354506f9a66"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/beautify.ts": {
+        "version": "75b2ec499f0c483f25ba183709b846686c86bec1b16a9a0e302cbb95a76c2c0a",
+        "signature": "6ef7989795a02e826916ab7827a3c272232ecbd34000931edbee2b74a211c2c3"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/index.ts": {
+        "version": "24fa40403b5bca414d8d57038e97d0f71a841f0dd25174560bed64756e05b10e",
+        "signature": "fa0b50b5dfff300dfbe794702a8fca51a3d05338eac68a61967c7e6ac5c4b113"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/codegen.ts": {
+        "version": "38dc58af86bc5590e8377eaab4ebaad81a5b7551cda0e8bf68d3be03e6f82370",
+        "signature": "1c2ebd841a8b4a2d5c61c5c23ae9a3871687dfba6996b3423de4023fcbdb09a4"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/cli.ts": {
+        "version": "1f36ba094b30f477960c1dce7592fe00df5ff5f5a46d35ceae2e81f6fa24dab1",
+        "signature": "07e1bab322fbea936a00ec149ad924a0d46aa4c8de79147e59c11d25bd0ca9e6"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/codegen.test.ts": {
+        "version": "98e0bc052ee8e6d898e5fdc405d81429f0ef067e3dcfa34f48c29c855aafda29",
+        "signature": "5fe5037c6e75187a51e9133cb604e37114e4b0f9e32b2a4c781c1d1ca1b22292"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/getviewforswagger2.test.ts": {
+        "version": "e197193c31acab70c572b902bae52863d70cafb2269119015de903a08b152a40",
+        "signature": "18e5cfbc24bb34e3d6f3d65d58ce9eab87e246d852a10d1889a069a104266fa0"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/test-helpers/testhelpers.ts": {
+        "version": "d6fb792787296aad175859d465c324f738c37159feec69ce98cb57e93fa72cef",
+        "signature": "5b640051e730837abb919dc4170b4be2f1c4cd585f92ba2930661acf10e6e619"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/typescript.test.ts": {
+        "version": "1ad1786080639cd4289c27d3b250740d007b0eda15945d3ab2bdd0ac7d27da89",
+        "signature": "b99ad2d61d15524e6ff9ae234ddd872b14ab5c4cf5113594301618c30b278dcd"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/beautify.test.ts": {
+        "version": "43b47548b88fbf0bffaddc7ede267dbd21d9ff187b322aa45a3a082d7c52bb95",
+        "signature": "bbf557ef75a3e14711e6e2c9aca1b1fd0a3c486cc3af223f6f785666b4e3a2fc"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/index.test.ts": {
+        "version": "90324a2a108f446efa2dc316a6c3bd5f5a2eac40052332f0283fca406e1f9b0f",
+        "signature": "9db15e6d1197e49a6a049b47ea1e26e5e0b0a4edf7d0e19756ca8f49eda8de80"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.test.ts": {
+        "version": "439d1b1b85dd1b08a9b953a219568b8014dc01eef6012495c7d25f49220219af",
+        "signature": "3bf0cbb0e45b20dd246498ca284a5e25abe75fd7ab4fd9b1a54906f5677154a2"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/transform/transformtocodewithmustache.test.ts": {
+        "version": "2739d6cb35717e10ddf88d6997b08d0a50039d6860bfb4f040db8e154881e18c",
+        "signature": "f862f6e97727a624de20f6c00bdbaceb94de928ada5af240bb597e69ae48ba67"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/jest/index.d.ts": {
+        "version": "5db4f6e8075887723fc16810fe3b88ea17ab793f9f5b365fe522667b226ca8f7",
+        "signature": "5db4f6e8075887723fc16810fe3b88ea17ab793f9f5b365fe522667b226ca8f7"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/inspector.d.ts": {
+        "version": "71f5e4a14f2464935a7a244d614e9cf7fc312441d83188abc6b799ce5d051830",
+        "signature": "71f5e4a14f2464935a7a244d614e9cf7fc312441d83188abc6b799ce5d051830"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/index.d.ts": {
+        "version": "a84838921dae2c38cdc5ecdfad24613fd1154c711c62df5581477ce8cf9113a5",
+        "signature": "a84838921dae2c38cdc5ecdfad24613fd1154c711c62df5581477ce8cf9113a5"
+      },
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/semver/index.d.ts": {
+        "version": "bb95470284971cf0cce66a339224fa5db412729bf3e22c2c02a1c343fd4444ab",
+        "signature": "bb95470284971cf0cce66a339224fa5db412729bf3e22c2c02a1c343fd4444ab"
+      }
+    },
+    "options": {
+      "target": 2,
+      "lib": [
+        "lib.es2017.d.ts",
+        "lib.es2015.d.ts"
+      ],
+      "composite": true,
+      "strict": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "declarationMap": true,
+      "inlineSourceMap": true,
+      "inlineSources": false,
+      "declaration": true,
+      "module": 1,
+      "moduleResolution": 2,
+      "preserveWatchOutput": true,
+      "rootDir": "/Users/milospaunovic/projects/swagger-typescript-codegen/src",
+      "outDir": "/Users/milospaunovic/projects/swagger-typescript-codegen/lib",
+      "project": "tsconfig.json",
+      "configFilePath": "/Users/milospaunovic/projects/swagger-typescript-codegen/tsconfig.json"
+    },
+    "referencedMap": {
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/mustache/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/any.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/object.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typescript.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/any.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/reference.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/enum.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/string.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/number.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/boolean.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/array.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typescript.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/schema.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/void.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/typescript.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/object.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/reference.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/enum.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/string.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/number.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/boolean.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/array.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/any.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/schema.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/void.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/fp.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/responsetype.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typescript.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/fp.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/parameter.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/fp.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typescript.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/headers.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/method.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/responsetype.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/version.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/parameter.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/headers.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/fp.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/definition.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typescript.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/operation.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/fp.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/getviewforswagger2.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/method.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/definition.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/operation.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/transform/transformtocodewithmustache.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/mustache/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/beautify.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/js-beautify/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/index.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/beautify.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/codegen.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/getviewforswagger2.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/transform/transformtocodewithmustache.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/index.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/cli.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/commander/typings/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/codegen.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/codegen.test.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/codegen.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/transform/transformtocodewithmustache.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/getviewforswagger2.test.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/getviewforswagger2.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/test-helpers/testhelpers.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/typescript.test.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typescript.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/test-helpers/testhelpers.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/beautify.test.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/beautify.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/index.test.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/index.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/beautify.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.test.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/mustache/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/transform/transformtocodewithmustache.test.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/mustache/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/transform/transformtocodewithmustache.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/getviewforswagger2.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/inspector.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/index.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/index.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/inspector.d.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/test-helpers/testhelpers.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/codegen.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/getviewforswagger2.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/transform/transformtocodewithmustache.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/index.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/beautify.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/transform/transformtocodewithmustache.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/getviewforswagger2.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/method.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/definition.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/definition.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/method.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/parameter.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/headers.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/fp.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/operation.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/parameter.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/responsetype.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/typescript.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/array.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/object.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/reference.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/mustache/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/headers.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/void.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/schema.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/boolean.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/number.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/string.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/enum.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/any.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/inspector.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/index.d.ts"
+      ],
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/index.d.ts": [
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/index.d.ts",
+        "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/inspector.d.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es5.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2016.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2017.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/commander/typings/index.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/common.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/array.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/collection.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/date.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/function.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/lang.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/math.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/number.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/object.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/seq.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/string.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/common/util.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/index.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/mustache/index.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/swagger/swagger.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/typespec.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/any.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/object.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/reference.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/enum.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/string.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/number.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/boolean.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/array.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/schema.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/type-mappers/void.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/typescript.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/lodash/fp.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/responsetype.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/version.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/parameter.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/headers.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/method.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/definition.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/view-data/operation.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/getviewforswagger2.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/transform/transformtocodewithmustache.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/js-beautify/index.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/beautify.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/index.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/codegen.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/cli.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/codegen.test.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/getviewforswagger2.test.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/test-helpers/testhelpers.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/typescript.test.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/beautify.test.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/enhance/index.test.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/options/options.test.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/src/transform/transformtocodewithmustache.test.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/jest/index.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/inspector.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/node/index.d.ts",
+      "/users/milospaunovic/projects/swagger-typescript-codegen/node_modules/@types/semver/index.d.ts"
+    ]
+  },
+  "version": "3.5.3"
+}

@@ -61,13 +61,8 @@
     "request": "^2.88.0",
     "superagent": "^4.0.0",
     "tmp": "0.0.33",
-    "typescript": "^3.2.2",
+    "typescript": "^3.5.3",
     "vows": "^0.8.2"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
   },
   "lint-staged": {
     "*.{ts,md},": [
