@@ -19,7 +19,7 @@ export type ConfigureRequestHandler = (agent: SuperAgentRequest) => SuperAgentRe
 export type CallbackHandler = (err: any, res?: request.Response) => void;
 
 {{#definitions}}
-export type {{&name}} = {{#tsType}}{{> type}}{{/tsType}};
+ type {{&name}} = {{#tsType}}{{> type}}{{/tsType}};
 
 {{/definitions}}
 
@@ -80,7 +80,7 @@ export class {{&className}} {
         this.configureRequestHandler = handler;
     }
 
-    private request(method: string, url: string, body: any, headers: RequestHeaders, queryParameters: QueryParameters, form: any, reject: CallbackHandler, resolve: CallbackHandler, opts: CommonRequestOptions) {
+    private request(method: string, url: string, body: any, headers: RequestHeaders, queryParameters: QueryParameters, form: any, reject: CallbackHandler, resolve: CallbackHandler, opts: CommonRequestOptions, default: any) {
         if(this.logger) {
           this.logger.log(`Call ${method} ${url}`);
         }
